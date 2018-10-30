@@ -1,6 +1,6 @@
 # Extracting Words from `.srt` files
 
-This python program helps ESL students who love watching American TV series and want to improve their Enlgish skills while enjoy TV series. Users can use this tool to extract words from `.srt` files before they watch the program and look up new words they do not know.
+This python program helps ESL students who love watching American TV series and want to improve their Enlgish skills while enjoying TV series. Users can use this tool to extract words from `.srt` files before they watch the program and look up new words they do not know.
 
 ## Code reference
 
